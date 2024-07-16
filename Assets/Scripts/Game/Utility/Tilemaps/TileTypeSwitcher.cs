@@ -19,12 +19,7 @@ namespace Utility
             TileType.Solid
         };
 
-        public static TileType SwitchTileType(TileType tileType)
-        {
-            return SwitchTileType(tileType, GridDataType.Default);
-        }
-
-        public static TileType SwitchTileType(TileType tileType, GridDataType gridDataType)
+        public static TileType SwitchTileType(TileType tileType, GridDataType gridDataType = GridDataType.Default)
         {
             switch (gridDataType)
             {
