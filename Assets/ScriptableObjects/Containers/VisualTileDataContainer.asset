@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6b8a6c5f050b4b4e9fec40268d291e8, type: 3}
+  m_Name: VisualTileDataContainer
+  m_EditorClassIdentifier: 
+  _visualTileDatas:
+  - {fileID: 11400000, guid: 5d3b49dbbb1ae8040a38b5ff84f047b7, type: 2}
+  - {fileID: 11400000, guid: 4156ec34d1bd84640945aae8cbf91e84, type: 2}
+  - {fileID: 11400000, guid: 7cdda4f6c2b970d419824502d82cc2fb, type: 2}
+  - {fileID: 11400000, guid: b9e868f3c7b8c134ba1816facadf3852, type: 2}
+  - {fileID: 11400000, guid: 5c16f55379204d543aef84c794f3d6a0, type: 2}
